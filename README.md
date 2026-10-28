@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=78350F,D97706,FBBF24&height=220&section=header&text=Business%20Analytics&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data-Driven%20Decision%20Making%20%C2%B7%20Analytical%20Frameworks%20%C2%B7%20Business%20Intelligence&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:78350F,50:D97706,100:FBBF24&height=220&section=header&text=Business%20Analytics&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Data-Driven%20Decision%20Making%20%C2%B7%20Analytical%20Frameworks%20%C2%B7%20Business%20Intelligence&descSize=15&descAlignY=60&descAlign=50" width="100%" alt="Header Banner"/>
 </p>
 
 <p align="center">
@@ -113,5 +113,5 @@ Contributions, issues, and feature requests are welcome! Feel free to open a pul
 ---
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=78350F,D97706,FBBF24&height=100&section=footer" width="100%" alt="Footer Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:78350F,50:D97706,100:FBBF24&height=100&section=footer" width="100%" alt="Footer Banner"/>
 </p>
